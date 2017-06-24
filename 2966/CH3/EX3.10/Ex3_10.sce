@@ -11,3 +11,6 @@ printf("\nAcid value of oil is %.3f mg/g",A);
 if A<=0.1 then printf("\nAs the acid value is less than 0.1, oil can be used for lubrication");
 else printf("\nAs the acid value is more than 0.1, oil cannot be used for lubrication");
     end
+    
+// test    
+// test 2
