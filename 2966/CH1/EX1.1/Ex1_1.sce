@@ -23,3 +23,5 @@ T=P1+P5+P6;
 printf("\nTemporary hardness is %.1f mg CaCO3 equivalent/litre",T);
 P=P2+P3+P4;
 printf("\nPermanant hardness is %.0f mg CaCO3 equivalent/litre",P);
+
+// test
