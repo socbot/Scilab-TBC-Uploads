@@ -12,3 +12,5 @@ printf("\n \n 3n+3=O(n^2) as 3n+3<=3n^2 for n>=2");
 printf("\n \n 10n^2+4n+2=O(n^4) as 10n^2+4n+2<=10n^4 for n>=2.");
 printf("\n \n 3n+2 is not O(1) as 3n+2 is less than or equal to c for any constant c and all n,n>=n0.");............// O(1) means computing time is constant.
 printf("\n \n 10n^2+4n+2 is not O(n)");
+
+// test
