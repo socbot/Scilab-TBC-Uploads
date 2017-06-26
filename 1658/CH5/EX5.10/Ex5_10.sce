@@ -7,3 +7,5 @@ VR=VS;
 disp('V',VR*1,"VR=");
 I=(VS/R);
 disp('mA',I*10**3,"I=");
+
+// test
