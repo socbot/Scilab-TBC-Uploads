@@ -10,5 +10,4 @@ E=10*10**-3;
 J=sigma*E;//current density
 disp('A/m^2',J*1,"J=");
 
-// test 2
-// test 3
+// test
